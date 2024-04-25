@@ -1,0 +1,13 @@
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbactions.xml
+/nb-configuration.xml
+
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar  # Keep Maven wrapper jar
+
+# Your custom configuration file
+config.properties
